@@ -10,5 +10,5 @@ If running first time->
   All other users will be considered as students.
   If user wants to add new teacher, admin has to change isTeacher data to 1 in users table;
   
-<b><h2>Project is not ready for publication usage.</b></h2>
+<b><h2>Project is not ready for public usage .</b></h2>
   If person wants to fork and update change password algorithm to "bcrypt" and use PDO statements.
